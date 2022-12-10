@@ -1,0 +1,14 @@
+main.pyc
+VsCode_file
+.bash_logout
+.ICEauthority
+.bashrc
+.cache/
+.config/
+.local/
+.profile
+.sudo_as_admin_successful
+.viminfo
+__pycache__
+
+
